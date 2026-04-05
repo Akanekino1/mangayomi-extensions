@@ -6,7 +6,7 @@ const _animepaheSourceCodeUrl =
     "https://raw.githubusercontent.com/m2k3a/mangayomi-extensions/$branchName/dart/anime/src/en/animepahe/animepahe.dart";
 Source _animepaheSource = Source(
   name: "AnimePahe",
-  baseUrl: "https://www.animepahe.ru",
+  baseUrl: "https://www.animepahe.pw",
   lang: "en",
   typeSource: "single",
   iconUrl:
