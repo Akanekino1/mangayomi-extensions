@@ -263,7 +263,7 @@ class AnimePahe extends MProvider {
       } else {
         final ress = (await client.get(
           Uri.parse(kwikLink),
-          headers: {"Referer": "https://animepahe.com"},
+          headers: {"Referer": "https://animepahe.pw"},
         ));
         final script = substringAfterLast(
           xpath(
@@ -380,8 +380,8 @@ class AnimePahe extends MProvider {
         title: "Preferred domain",
         summary: "",
         valueIndex: 0,
-        entries: ["animepahe.si"],
-        entryValues: ["https://animepahe.si"],
+        entries: ["animepahe.pw"],
+        entryValues: ["https://animepahe.pw"],
       ),
       SwitchPreferenceCompat(
         key: "preffered_link_type",
