@@ -28,17 +28,17 @@ Or add them manually in the app (More -> Settings -> Browse):
 
 manga repo
 ```
-https://m2k3a.github.io/mangayomi-extensions/index.json
+https://akanekino1.github.io/mangayomi-extensions/index.json
 ```
 
 anime repo 
 ```
-https://m2k3a.github.io/mangayomi-extensions/anime_index.json
+https://akanekino1.github.io/mangayomi-extensions/anime_index.json
 ```
 
 novel repo 
 ```
-https://m2k3a.github.io/mangayomi-extensions/novel_index.json
+https://akanekino1.github.io/mangayomi-extensions/novel_index.json
 ```
 
 
